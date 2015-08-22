@@ -1,1 +1,1 @@
-# common-frontend-snippets
+# frontend-snippets
